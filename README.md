@@ -37,14 +37,34 @@ Write unit tests to cover both success and failure scenarios for the above route
 
 Please include meaningful inline comments in your code to explain the logic and any decisions made.
 
-## Setup
+## Cloning and Setup
 
-1. Install dependencies: `npm install`
-2. Start the server: `npm start`
-3. Run tests: `npm test`
+### Cloning the Repository
+
+1. Open your terminal and navigate to the directory where you want to clone the repository.
+2. Run the following command:
+
+   ```bash
+   git clone https://github.com/hcevikGA/ga-ppt.git
+
+3. Navigate to the project directory:
+   
+   ```bash
+   cd ga-ppt
+
+### Setup
+
+1. Install dependencies
+   ```bash
+   npm install
+4. Start the server
+   ```bash
+   npm start
+6. Run tests
+   ```bash
+   npm test
 
 ## Evaluation Criteria
-
 - Code quality and style
 - Proper implementation of REST principles
 - Proper handling of authentication
@@ -52,7 +72,6 @@ Please include meaningful inline comments in your code to explain the logic and 
 - Thoughtful inline comments and documentation
 
 ## Time Allocation
-
-You have [TIME ALLOCATION] for this task. If you have any questions or need further clarification on any part of the task, please don't hesitate to ask.
+You have 1 hour and 30 minutes for this task. If you have any questions or need further clarification on any part of the task, please don't hesitate to ask.
 
 Good luck!
